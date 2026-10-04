@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse ISP & MikroTik Hotspot Manager",
+  "description": "Production-ready ISP and MikroTik Hotspot billing, voucher generation, FreeRADIUS, WireGuard provisioning, and Tanzania mobile money payment gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
